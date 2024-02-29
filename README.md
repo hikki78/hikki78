@@ -1,4 +1,3 @@
-![MasterHead](https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif)
 <h1 align="center">Hi 👋, I'm Megh</h1>
 <h3 align="center">Wannabe Fullstack dev (T-T)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/WUx2SMnfwyEAAAAC/tenor.gif">
