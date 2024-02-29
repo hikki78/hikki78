@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hikki_78" target="blank"><img src="https://img.shields.io/twitter/follow/hikki_78?logo=twitter&style=for-the-badge" alt="hikki_78" /></a> </p>
 
-- 👨‍💻 Go take a look at [megh.codes](megh.codes)
+- 👨‍💻 Go take a look at [My Site :D](https://megh.codes/)
 
 - 📫 Reach me at **meghadrimukherjee680@gmail.com**
 
