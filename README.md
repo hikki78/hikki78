@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif)
+![MasterHead](https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif)![MasterHead](https://media1.tenor.com/m/VUL8I7LWf9kAAAAC/serial-experiments-lain-lain.gif)
 <h1 align="center">Hi 👋, I'm Megh</h1>
 <h3 align="center">Wannabe Fullstack dev (T-T)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/WUx2SMnfwyEAAAAC/tenor.gif">
