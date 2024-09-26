@@ -1,13 +1,20 @@
 ## 👋 Heyo!
-<img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" alt="MasterHead"/>
+<img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" alt="MasterHead" style="display: block; margin: 0 auto;"/>
 
-## 💫 A bit about me:
-👋 Myself Meghadri Mukherjee<br>
-👨‍💻 A tryhard Full Stack Developer<br>
-🤓 I use Arch btw<br>
-🌱 I’m currently learning 🦀 & 🇨<br>
-💬 Ask me about Linux, vim, anime, games & tech<br>
-⚡ Fun fact: I use all my savings on 2D-waifus & audio gears. 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h2 style="margin: 0;">💫 A bit about me:</h2>
+    👋 Myself Meghadri Mukherjee<br>
+    👨‍💻 A tryhard Full Stack Developer<br>
+    🤓 I use Arch btw<br>
+    🌱 I’m currently learning 🦀 & 🇨<br>
+    💬 Ask me about Linux, vim, anime, games & tech<br>
+    ⚡ Fun fact: I use all my savings on 2D-waifus & audio gears.
+  </div>
+  <div style="flex: 0;">
+    <img src="https://media1.tenor.com/m/YEsPyMNeSNgAAAAd/cheemker.gif" alt="MasterHead" style="margin-left: 20px;"/>
+  </div>
+</div>
 
 ## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
@@ -37,5 +44,3 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
