@@ -1,15 +1,24 @@
+<h1 align="center">Hi 👋, I'm Megh</h1>
+<h3 align="center">yolo</h3>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hikki78&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hikki78&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on **l**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hikki78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **dd**
 
----
-[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=12)](https://visitcount.itsvg.in)
+- 👯 I’m looking to collaborate on **hh**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👨‍💻 All of my projects are available at [d](d)
+
+- 📝 I regularly write articles on [d](d)
+
+- 💬 Ask me about **dd**
+
+- 📫 How to reach me **dddd**
+
+- 📄 Know about my experiences [d](d)
+
+- ⚡ Fun fact **d**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
