@@ -1,8 +1,13 @@
 ## 👋 Heyo!
-<img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" alt="MasterHead" style="display: block; margin: 0 auto;"/>
+```javascript
+console.log("Welcome to my ");
+```
+<div align="center">
+  
+![MasterHead](https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
-
+</div>
 ## 💫 A bit about me:
 👋 Myself Meghadri Mukherjee<br>
 👨‍💻 A tryhard Full Stack Developer<br>
@@ -31,11 +36,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000?style=flat-square&logo=Solana&logoColor=9945FF)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
