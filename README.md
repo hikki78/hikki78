@@ -1,6 +1,8 @@
 ## 👋 Heyo!
 <img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" alt="MasterHead" style="display: block; margin: 0 auto;"/>
 
+[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
+
 ## 💫 A bit about me:
 👋 Myself Meghadri Mukherjee<br>
 👨‍💻 A tryhard Full Stack Developer<br>
