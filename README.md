@@ -1,22 +1,15 @@
 ## 👋 Heyo!
 <img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" alt="MasterHead" style="display: block; margin: 0 auto;"/>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h2 style="margin: 0;">💫 A bit about me:</h2>
-    👋 Myself Meghadri Mukherjee<br>
-    👨‍💻 A tryhard Full Stack Developer<br>
-    🤓 I use Arch btw<br>
-    🌱 I’m currently learning 🦀 & 🇨<br>
-    💬 Ask me about Linux, vim, anime, games & tech<br>
-    ⚡ Fun fact: I use all my savings on 2D-waifus & audio gears.
-  </div>
-  <div style="flex: 0;">
-    <img src="https://media1.tenor.com/m/YEsPyMNeSNgAAAAd/cheemker.gif" alt="MasterHead" style="margin-left: 20px;"/>
-  </div>
-</div>
+## 💫 A bit about me:
+👋 Myself Meghadri Mukherjee<br>
+👨‍💻 A tryhard Full Stack Developer<br>
+🤓 I use Arch btw<br>
+🌱 I’m currently learning 🦀 & 🇨<br>
+💬 Ask me about Linux, vim, anime, games & tech<br>
+⚡ Fun fact: I use all my savings on 2D-waifus & audio gears. 
 
-## 💻 Tech Stack:
+## 💻 Tech Stacks I'm into:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
