@@ -21,14 +21,15 @@
 <a href="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif">
   <img align="right" src="https://media1.tenor.com/m/YEsPyMNeSNgAAAAd/cheemker.gif" width=150 style="margin-top: 50px;" />
 </a>
-<pre>
-👋 Myself Meghadri Mukherjee, call me Megh
-👨‍💻 A tryhard Full Stack Developer
-🤓 I use Arch & nvim btw
-🌱 I’m currently learning 🦀 & 🇨
-💬 Ask me about Linux, vim, anime, games & tech
-⚡ Fun fact: I use all my savings on 2D-waifus & audio gears
-</pre> 
+
+- 👋 Myself Meghadri Mukherjee, call me Megh</br>
+- 👨‍💻 A tryhard Full Stack Developer</br>
+- 🤓 I use Arch & nvim btw</br>
+- 🌱 I’m currently learning 🦀 & 🇨</br>
+- 💬 Ask me about Linux, vim, anime, games & tech</br>
+- ⚡ Fun fact: I use all my savings on 2D-waifus & audio gears
+
+
 
 > 💻 Tech Stacks I'm into:
 - Languages: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
