@@ -16,21 +16,21 @@
 📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
 
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-## 💫 A bit about me:
+> 💫 A bit about me:
 <a href="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif">
-  <img align="right" src="https://media1.tenor.com/m/YEsPyMNeSNgAAAAd/cheemker.gif" width=200 style="margin-top: 50px;" />
+  <img align="right" src="https://media1.tenor.com/m/YEsPyMNeSNgAAAAd/cheemker.gif" width=150 style="margin-top: 50px;" />
 </a>
-👋 Myself Meghadri Mukherjee, call me Megh<br>
-👨‍💻 A tryhard Full Stack Developer</br>
-🤓 I use Arch & nvim btw</br>
-🌱 I’m currently learning 🦀 & 🇨</br>
-💬 Ask me about Linux, vim, anime, games & tech</br>
+<pre>
+👋 Myself Meghadri Mukherjee, call me Megh
+👨‍💻 A tryhard Full Stack Developer
+🤓 I use Arch & nvim btw
+🌱 I’m currently learning 🦀 & 🇨
+💬 Ask me about Linux, vim, anime, games & tech
 ⚡ Fun fact: I use all my savings on 2D-waifus & audio gears
+</pre> 
 
-## 💻 Tech Stacks I'm into:
-> Skills:
+> 💻 Tech Stacks I'm into:
 - Languages: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
@@ -59,7 +59,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-000?style=flat-square&logo=Solana&logoColor=9945FF)
 
-> Stats:
+> 📊 Stats that noone cares about:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
