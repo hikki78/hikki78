@@ -1,6 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
+
 ## 👋 Heyo!
 ```javascript
-console.log("Welcome to my ");
+console.log("sup????");
 ```
 <div align="center">
   
@@ -11,12 +13,15 @@ console.log("Welcome to my ");
 
 
 ## 💫 A bit about me:
+<pre>
+  
 👋 Myself Meghadri Mukherjee<br>
 👨‍💻 A tryhard Full Stack Developer<br>
 🤓 I use Arch btw<br>
 🌱 I’m currently learning 🦀 & 🇨<br>
 💬 Ask me about Linux, vim, anime, games & tech<br>
-⚡ Fun fact: I use all my savings on 2D-waifus & audio gears. 
+⚡ Fun fact: I use all my savings on 2D-waifus & audio gears.
+</pre>
 
 ## 💻 Tech Stacks I'm into:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
@@ -43,4 +48,3 @@ console.log("Welcome to my ");
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-000?style=flat-square&logo=Solana&logoColor=9945FF)
 
-[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
