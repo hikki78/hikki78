@@ -1,13 +1,22 @@
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<p align="center">
-<img src="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif" height="240" width="370">
-
-<!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![MasterHead](https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif)
+![](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=97&duration=2500&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)
+
+<div align="center">
+  <a href="https://www.youtube.com/@maxhudotdev"><img src="./assets/youtube-badge.svg"/></a>
+  <a href="https://odysee.com/@maxhudotdev:c"><img src="./assets/odysee-badge.svg"/></a>
+  <a href="https://maxhu.dev/"><img src="./assets/website-badge.svg"/></a>
+  <a href="https://blog.maxhu.dev/"><img src="./assets/blog-badge.svg"/></a>
+</div>
+
+<br />
+<div align="center">
+
+📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 ## 💫 A bit about me:
 <a href="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif">
@@ -52,5 +61,5 @@
 
 > Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
