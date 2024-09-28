@@ -13,9 +13,10 @@
 <br />
 <div align="center">
 
-📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+📫 Contact me at <a href="mailto:"></a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
 
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 > 💫 A bit about me:
 <a href="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif">
@@ -63,5 +64,9 @@
 > 📊 Stats that noone cares about:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hikki78&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+---
+[![](https://visitcount.itsvg.in/api?id=hikki78&icon=0&color=2)](https://visitcount.itsvg.in)
+
+
