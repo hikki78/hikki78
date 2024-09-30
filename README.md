@@ -13,7 +13,7 @@
 <br />
 <div align="center">
 
-📫 Contact me at <a href="mailto:business.megh.me@gmail.com">business.megh.me@gmail.com</a> or say hi on <a href="https://x.com/HikkiScript"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> | ⚙ You can find my all socials <a href="">here</a>
+📫 Contact me at <a href="mailto:business.megh.me@gmail.com">business.megh.me@gmail.com</a> or say hi on <a href="https://x.com/HikkiScript"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> | ⚙ You can find my all socials <a href="hikki.me">here</a>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
