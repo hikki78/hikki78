@@ -4,7 +4,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=97&duration=2500&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)
 
 <div align="center">
-  <a href="https://hikki.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://hikki.me/"><img src="https://img.shields.io/badge/My Site-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://x.com/HikkiScript"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:business.megh.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hikki78/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
