@@ -4,18 +4,17 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=97&duration=2500&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82)
 
 <div align="center">
-  <a href="https://megh.codes/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://hikki.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://x.com/HikkiScript"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:business.megh.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hikki78/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@HikkiScript"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/pDQZsfvL6l/"><img src="https://img.shields.io/badge/Leetcode-FFE600?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </div>
 <br />
 <div align="center">
-
-📫 Contact me at <a href="mailto:business.megh.me@gmail.com">business.megh.me@gmail.com</a> or say hi on <a href="https://x.com/HikkiScript"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> | ⚙ You can find me <a href="https://bento.me/hikki78">here</a>
+⚙ For more info, please find me <a href="https://bento.me/hikki78">here&#128513</a>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> &#128513
 
 > 💫 A bit about me:
 <a href="https://media.tenor.com/6_-osAtLuHUAAAAi/wave-cute.gif">
@@ -24,7 +23,7 @@
 
 - 👋 Myself Meghadri Mukherjee, call me Megh</br>
 - 👨‍💻 A tryhard Full Stack Developer</br>
-- 🤓 I use Arch & nvim btw</br>
+- 🤓 I use 𝙰̶𝚛̶𝚌̶𝚑̶ ̶𝚊̶𝚗̶𝚍̶ ̶𝙽̶𝚎̶𝚘̶𝚟̶𝚒̶𝚖̶ ̶𝚋̶𝚝̶𝚠̶</br>
 - 🌱 I’m currently learning GO & K8s</br>
 - 💬 Ask me about Linux, vim, anime, games & tech</br>
 - ⚡ Fun fact: I have 0 savings :)
